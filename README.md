@@ -1,1 +1,1 @@
-# leaflet1.1
+# leaflet-geojson
